@@ -1,0 +1,130 @@
+body{
+    font-family: 'Roboto';
+}
+p{
+    padding: none;
+}
+.nav{
+    background-color:#989E50;
+}
+.nav-item{
+    padding: 8px 0px;
+}
+i{color: black;}
+.img-fluid{
+    display: inline-block;
+    padding: 1rem 0rem;
+    width: 200px;
+    min-width: 100px;
+}
+.conteiner-sm{
+    display: inline-block;
+    margin-bottom: 5rem;
+}
+.button{
+    background-color: #989E50;
+    padding: 10px 5px;
+    box-shadow: 3px 3px #F8B049;
+    border: none;
+    color: white;
+}
+.button:hover{
+    background-color: #F8B049;
+}
+.navbar-nav{
+    margin-left: 20rem;
+    list-style: none;
+   color: white;
+    
+}
+.nav-item{
+    padding-right: 1rem;
+    text-align: center;
+    font-size: 18px;
+    display: inline-block;
+}
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+.nav-link:hover{
+    text-decoration: none;
+    color: white;
+}
+.texto-whatsapp{
+    color: white;
+    display: inline-block;
+}
+#whatsapp{
+    color: white;
+    padding-right: 0.5rem;
+    display: inline-block;
+}
+.imagem{
+ width: 20rem;
+}
+.imagem:hover{
+    opacity: 0.5;
+}
+    #container-imagens{
+        padding-top: 3rem
+    }
+.data{
+    color: white;
+    display: inline-block;
+    
+    position: relative;
+}
+.data h1{
+    font-weight: 700;
+    font-size: 60px;
+    margin: 0;
+}
+.data p{
+    font-weight: 300;
+    font-size: 20px;
+    margin: 0;
+}
+.artista{
+    color: #7E7E7E;
+    display: inline-block;
+    position: relative;
+    bottom: 6.5rem;
+}
+.artista h1{
+    font-size: 25px;
+    font-weight: 600;
+    display: inline-block;
+    padding-right: 4rem;
+}
+.artista p{
+    display: inline-block;
+    font-size: 20px;
+}
+
+#menu-responsivo{
+    color: #F8B049; 
+}
+.nav-texto {
+    color: aliceblue;
+}
+.datas{
+    bottom: 8rem;
+    left: 9rem;
+}
+.titulo-2-pagina{
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 180px;
+    padding-bottom: 180px;
+}
+.h1-2-pagina{
+    font-size: 70px;
+    display: block;
+}
+.p-2-pagina{
+    display: block;
+    font-size: 18px;
+}
